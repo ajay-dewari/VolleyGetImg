@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley GetImg</string>
+    <string name="enter_url">Enter Image Url</string>
+</resources>
